@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "How",
+  "base_artist": "Ella Mai",
+  "createdAt": "2026-03-13T15:13:45.208304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Ask Me How I Know",
+      "artist": "Bobby Pinson",
+      "has_synced": true,
+      "path": "select/01_Don't_Ask_Me_How_I_Know_Bobby_Pinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How They Remember You",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/02_How_They_Remember_You_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "How To Talk To Girls",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/03_How_To_Talk_To_Girls_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Is How We Roll",
+      "artist": "Florida Georgia Line feat. Luke Bryan",
+      "has_synced": true,
+      "path": "select/04_This_Is_How_We_Roll_Florida_Georgia_Line_feat._Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Is How We Roll",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/05_This_Is_How_We_Roll_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "How Not To Drown (feat. Robert Smith)",
+      "artist": "CHVRCHES feat. Robert Smith",
+      "has_synced": true,
+      "path": "select/06_How_Not_To_Drown_(feat._Robert_Smith)_CHVRCHES_feat._Robert_Smith.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't You Know How Much I Love You",
+      "artist": "Ronnie Milsap",
+      "has_synced": false,
+      "path": "select/07_Don't_You_Know_How_Much_I_Love_You_Ronnie_Milsap.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Funny How Time Slips Away",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/08_Funny_How_Time_Slips_Away_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Funny How Time Slips Away",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/09_Funny_How_Time_Slips_Away_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Funny How Time Slips Away",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/10_Funny_How_Time_Slips_Away_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Funny How Time Slips Away (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/11_Funny_How_Time_Slips_Away_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How 'Bout Them Cowgirls",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_How_'Bout_Them_Cowgirls_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "How 'Bout Them Cowgirls (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_How_'Bout_Them_Cowgirls_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "How 'Bout You",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/14_How_'Bout_You_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How Am I Doin'",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/15_How_Am_I_Doin'_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How Blue",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/16_How_Blue_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How Can I Be So Thirsty",
+      "artist": "Jerrod Niemann",
+      "has_synced": true,
+      "path": "select/17_How_Can_I_Be_So_Thirsty_Jerrod_Niemann.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "How (feat. Roddy Ricch)",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_How_(feat._Roddy_Ricch)_Ella_Mai.txt"
+    }
+  ]
+}
